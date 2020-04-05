@@ -4,7 +4,7 @@ Neste projeto eu pude aprender conceitos do typescript, como interfaces, types, 
 
 ## FEATURES DESENVOLVIDAS
 
-- LISTAGEM BÁSICA DE USUÁRIOS UTILIZANDO DO TYPESCRIPT
+- LISTAGEM BÁSICA DE USUÁRIOS UTILIZANDO O TYPESCRIPT
 
 ## INSTRUÇÕES PARA UTILIZAÇÃO
 
