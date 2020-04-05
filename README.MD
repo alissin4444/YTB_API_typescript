@@ -19,7 +19,7 @@ yarn
 Para inicializar o server execute
 
 ```sh
-yarn start
+yarn dev:server
 ```
 
 Um server será aberto na rota http://localhost:3333/. Utilize ela para explorar esta API
